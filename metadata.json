@@ -1,0 +1,5 @@
+{
+  "name": "Termin- und Überweisungs-Dashboard",
+  "description": "Eine Webanwendung zur Organisation von Terminen, Überweisungen und Notizen mit einer Benachrichtigungsleiste, Datum und Uhrzeit. Gestaltet für Klarheit und Benutzerfreundlichkeit.",
+  "requestFramePermissions": []
+}
